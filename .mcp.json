@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "clasp": {
+      "type": "http",
+      "url": "https://mcp.clasp.pro/mcp"
+    }
+  }
+}

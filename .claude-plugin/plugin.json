@@ -1,0 +1,13 @@
+{
+  "name": "clasp",
+  "displayName": "Clasp",
+  "description": "Manage authorized Clasp field-service work: customers, requests, jobs, visits, estimates, invoices and customer communications.",
+  "version": "1.0.3",
+  "author": {
+    "name": "Clasp",
+    "url": "https://clasp.pro"
+  },
+  "homepage": "https://clasp.pro",
+  "icon": "./assets/icon.png",
+  "privacyPolicyUrl": "https://clasp.pro/privacy"
+}
